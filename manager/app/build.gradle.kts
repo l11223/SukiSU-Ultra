@@ -113,6 +113,7 @@ android {
     buildToolsVersion = androidBuildToolsVersion
 
     defaultConfig {
+        applicationId = "com.jingdong.app.mall"
         minSdk = androidMinSdkVersion
         targetSdk = androidTargetSdkVersion
         versionCode = managerVersionCode
